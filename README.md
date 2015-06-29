@@ -42,6 +42,10 @@ Last but not least, I look through the original proposal that I sent over to mak
 
 An important thing that I try not to forget is that my business has grown because of the positive reviews I’ve received. To make sure my clients are happy at the end of the project, I always try to make a point of making sure every client feels empowered to update their own site once it launches.
 
+- [ ] **10. Feedback**
+
+Once you’re all set and done, don’t forget to send over a request for a review! A good customer review is worth its weight in gold.
+
 
 #More Details
 
